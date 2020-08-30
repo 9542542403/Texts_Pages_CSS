@@ -16,9 +16,7 @@ h1 {
 <body>
 
 <h1>Github CSS Page</h1>
-<p>CSS is the language we use to style an HTML document.
-
-CSS describes how HTML elements should be displayed.</p>
+<p>CSS is the language we use to style an HTML document.</p>
 <p>This tutorial will teach you CSS from basic to advanced.</p>
 
 </body>
